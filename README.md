@@ -2,7 +2,7 @@
 
 An interactive Machine Learning application built with **Streamlit** that predicts a student's final exam score based on their daily habits and lifestyle factors.
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=ducphattran/Student_score_predictor)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://share.streamlit.io/deploy?repository=ducphattran/student-score-predictor&main_file=app.py)
 
 ## 🚀 Overview
 This project uses a Linear Regression model trained on student performance data to analyze how variables like study hours, attendance, and mental health impact academic outcomes. The app provides a user-friendly interface where anyone can adjust sliders to see real-time score predictions.
@@ -25,7 +25,7 @@ This project uses a Linear Regression model trained on student performance data 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/YOUR_GITHUB_USERNAME/student-score-predictor.git](https://github.com/YOUR_GITHUB_USERNAME/student-score-predictor.git)
+   git clone [https://github.com/ducphattran/student-score-predictor.git](https://github.com/ducphattran/student-score-predictor.git)
    cd student-score-predictor
 2. **Install dependencies**
    ```bash
