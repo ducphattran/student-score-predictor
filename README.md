@@ -39,16 +39,16 @@ This project uses a Linear Regression model trained on student performance data 
 📊 Model Features
 The predictor analyzes the following inputs to generate a score:
 
-# Study Hours: Daily time spent studying.
+**Study Hours: Daily time spent studying.**
 
-# Attendance: Percentage of classes attended.
+**Attendance: Percentage of classes attended.**
 
-# Mental Health: Self-reported rating on a scale of 1-10.
+**Mental Health: Self-reported rating on a scale of 1-10.**
 
-# Sleep: Average hours of sleep per night.
+**Sleep: Average hours of sleep per night.**
 
-# Exercise: Number of days per week spent exercising.
+**Exercise: Number of days per week spent exercising.**
 
-# Diet Quality: Categorical input (Poor, Fair, Good).
+**Diet Quality: Categorical input (Poor, Fair, Good).**
 
-# Part-time Job: Whether the student is currently employed.
+**Part-time Job: Whether the student is currently employed.**
